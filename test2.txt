@@ -1,0 +1,5 @@
+CSV
+name,favorite movie,favorite pet
+George,Batman,Rabbit
+Pun,Star war,Cat
+Tus,Avengers,Fish
